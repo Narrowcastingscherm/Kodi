@@ -1,0 +1,7 @@
+addon id=plugin.program.chef20 name=Installatie Wizard version=1.0.0 provider-name=YourName
+    descriptionA short description of your addondescription
+    urlhttpsgithub.comyourusernamekodi-repourl
+    licenseGPLv3license
+    sourcehttpsgithub.comyourusernamekodi-reposource
+    addon id=plugin.program.chef20 version=1.0.0 
+addon
