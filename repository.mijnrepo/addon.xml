@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Wizard" name="Wizard" version="1.0.0" provider-name="Wizard">
+   <extension point="xbmc.addon.repository" name="Wizard">
+		<dir>
+			<info compressed="false">https://github.com/Narrowcastingscherm/Kodi/blob/main/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Narrowcastingscherm/Kodi/refs/heads/main/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Narrowcastingscherm/Kodi</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <summary lang="en">Wizard Installatie</summary>
+    <description lang="en">Installatie voor Kodi</description>
+    <platform>all</platform>
+  </extension>
+</addon>
